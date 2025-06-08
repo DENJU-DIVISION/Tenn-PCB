@@ -12,3 +12,10 @@ It uses DRV8871 as a motor controller, that has a peak current of 3.5A, and can 
 - XT30 connector
 - On/Off switch
 - M2 mounting holes for secure mounting
+# Photos
+### Front, back and dimentions
+![Tenn_front](https://github.com/user-attachments/assets/b9b9b3e1-8182-46f3-8e34-6e5ab5562d40)
+![Tenn_back](https://github.com/user-attachments/assets/9aa0d87e-bb6f-47ad-8d92-bbb74cb91125)
+## Renders
+![Tenn_render_front](https://github.com/user-attachments/assets/3d838756-3646-44cd-a024-9971f18337ee)
+![Tenn_render_back](https://github.com/user-attachments/assets/fd8d7dd6-8d3a-401e-abe7-e2c626bcfc49)
